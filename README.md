@@ -1,4 +1,4 @@
-<h1 align ="center" > :desktop_computer:  Ser Link </h1>
+<h1 align ="center" > 📰  Ser Link </h1>
 <h4  align ="center"> 
 Fullstack open source application, dynamic website with features like ,inventory management.</h4>
  <h4  align ="center">A business inventory management system which is crafted with Nodejs, Express, Ejs and MongoDB</h4>
