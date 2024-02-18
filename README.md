@@ -48,12 +48,14 @@ DONT FORGET TO CREATE THE IMAGE FOLDER - ./public/images
 ##  Screenshots:
 📸
 <br>
-<img src="./SYSTEMIMAGES/IMAGE01.jpg" alt="project screenshot01" />
-<img src="./SYSTEMIMAGES/IMAGE02.jpg" alt="project screenshot02" />
-<img src="./SYSTEMIMAGES/IMAGE03.jpg" alt="project screenshot03" />
-<img src="./SYSTEMIMAGES/IMAGE04.jpg" alt="project screenshot04" />
-<img src="./SYSTEMIMAGES/IMAGE05.jpg" alt="project screenshot05" />
-<img src="./SYSTEMIMAGES/IMAGE06.jpg" alt="project screenshot06" />
+<img src="./SERLINK002/PROJECTIMAGES/IMAGE01.jpg" alt="project screenshot01" />
+<img src="./SERLINK002/PROJECTIMAGES/IMAGE02.jpg" alt="project screenshot02" />
+<img src="./SERLINK002/PROJECTIMAGES/IMAGE03.jpg" alt="project screenshot03" />
+<img src="./SERLINK002/PROJECTIMAGES/IMAGE04.jpg" alt="project screenshot04" />
+<img src="./SERLINK002/PROJECTIMAGES/IMAGE05.jpg" alt="project screenshot05" />
+<img src="./SERLINK002/PROJECTIMAGES/IMAGE06.jpg" alt="project screenshot06" />
+<img src="./SERLINK002/PROJECTIMAGES/IMAGE07.jpg" alt="project screenshot07" />
+
 
 <br>
 
